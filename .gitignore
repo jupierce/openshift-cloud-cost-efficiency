@@ -1,0 +1,27 @@
+# Python Ignores
+*.pyc
+build
+dist
+*.so
+*.pyc
+.cache
+.coverage
+htmlcov
+.eggs
+.cache
+venv
+cover
+*.egg-info
+*.csv
+.tox
+
+
+# Ignore emacs backup files
+*~
+
+# Ignore idea backup files
+.idea
+
+# Ignore .vscode local config files
+.vscode
+
